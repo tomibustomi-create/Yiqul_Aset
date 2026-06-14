@@ -1,2 +1,1 @@
 Yiqul.id
-Website Yiqul
