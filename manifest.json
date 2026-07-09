@@ -1,7 +1,7 @@
 {
   "name": "Yiqul_Aset",
-  "short_name": "Qurban",
-  "start_url": "/",
+  "short_name": "Yiqul",
+ "start_url": "/Yiqul_Aset/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#16a34a",
